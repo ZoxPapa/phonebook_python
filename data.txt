@@ -1,5 +1,9 @@
-{'first_name': 'sdf', 'second_name': 'ase', 'mobile_number': '123'}
-{'first_name': 'dskdfmkse', 'second_name': 'sdmmsdsd', 'mobile_number': '234554'}
-{'first_name': 'sdkm', 'second_name': 'dmmd', 'mobile_number': '456'}
-{'first_name': 'SLK', 'second_name': 'skdm', 'mobile_number': '3554'}
-{'first_name': 'Lol', 'second_name': 'Kek', 'mobile_number': '123'}
+['kmsdkdm', 'skdmfskm', '3249894585']
+['Lory', 'Hory', '2394']
+['f', 'a', '2']
+['Zoz', 'lol', '2134']
+['Rar', 'lksldmf', '1111111']
+['Lol', 'ksdjm', '1234']
+['JOj', 'DOd', '123']
+['Misha', 'Rasteryasha', '32']
+['Missdfassdaha', 'Rasterysadfasha', '89000000102']
