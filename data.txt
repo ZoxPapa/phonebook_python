@@ -1,13 +1,10 @@
-['kmsdkdm', 'skdmfskm', '3249894585']
-['f', 'a', '2']
-['Zoz', 'lol', '2134']
-['Rar', 'lksldmf', '1111111']
-['JOj', 'DOd', '123']
-['Misha', 'Rasteryasha', '32']
-['Missdfassdaha', 'Rasterysadfasha', '89000000102']
-['Славянский', 'Шрифт', '88005553535']
-['ывл', 'ывда', '234']
-['Кто-то', 'Там', '839344']
-['Who', 'ItIs', '123']
-['jok', 'jolkd', '123234']
-['Hory', 'Lory', '123123123']
+0009 Zakhar Tsvetkov 123123123
+0010 slk Somebody 0000000
+0011 Lol Kek 090909
+0012 ZZZ XXX 070707
+0013 sdklm slkdmf 123
+0014 dskfm ksdmf 3
+0019 Maloy kmd 123
+0020 Kukuruza sdkfm 21
+0021 Jojo Bizzare 03030303
+0022 Riki KIki 070707

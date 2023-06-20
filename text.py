@@ -14,6 +14,13 @@ main_menu = '''                 _______________________
                   3. Watch all contacts
                   4. Close Phonebook
                         '''
+edit_menu = '''                 _______________________
+                |      Editing what?    |
+
+                  1. First name
+                  2. Second name
+                  3. Phone number
+                        '''
 qn_contact = 'Which contact do you want to open? \n'
 deleting_complete = "\t Contact deleted succesfully"
 calling = '         zzzz....zzzz.....zzzz.... \n The phone number is switched off or out of the coverage'
@@ -28,5 +35,5 @@ qn_creating_2 = "Input second name: "
 qn_creating_3 = "Input phone number: "
 creating_complete = "\t Contact created succesfully"
 editing_complete = "\t Contact edited succesfully"
-table_info =''' ________________________________________________________________
-|        First name    |     Second name    |    Phone number    |\n'''
+table_info =''' _____________________________________________________________________
+|  ID  |     First name    |     Second name    |     Phone number    |\n'''
